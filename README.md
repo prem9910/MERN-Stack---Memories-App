@@ -2,7 +2,8 @@
 
 A MERN stack application for creating and managing memories. Users can create, update, delete, and like posts.
 
-
+## Screenshots
+- ![Screenshot 1](image.png)
 
 ## Table of Contents
 
@@ -77,6 +78,5 @@ A MERN stack application for creating and managing memories. Users can create, u
 
 8. Open your browser and go to `http://localhost:3000` to view the application.
 
-## Screenshots
-- ![Screenshot 1](path/to/screenshot1.png)
-- ![Screenshot 2](path/to/screenshot2.png)
+
+
